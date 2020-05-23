@@ -1,2 +1,4 @@
 rootProject.name = 'justi-work'
+include 'selenium'
+include 'selenium'
 
