@@ -1,0 +1,19 @@
+Scenariusze testowe backendu:
+
+1/USER
+-rejestracja nowego użytkownika(-ów),zawierającego login i hasło,
+
+2/TITLES
+-stworzenie listy tytułów e-booków(autor, tytuł, rok wydania, ilość egzemplarzy),
+-aktualizacja wybranego tytułu,
+-usunięcie wybranego tyułu,
+
+3/RENTS
+-wypożyczenie książki przez użytkownika(imię i nazwisko, data wypożyczenia, data wygaśnięcia)
+-aktualizacja(zmiana) użytkownika, który aktualnie wypożycza książkę,
+-usunięcie (oddanie) wypożyczonej książki,
+
+4/ITEMS
+-utworzenie listy e-booków (tytuł, autor, rok wydania lista egzemplarzy),
+-zaktualizowanie pozycji na liście,
+-usunięcie e-booka,
