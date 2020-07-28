@@ -1,0 +1,49 @@
+POZYTYWNE:
+1/ Poprawna rejestracja użytownika
+-login:user
+-hasło:haslo
+-powtórzone hasło:haslo
+
+2/Poprawne logowanie użytkownia
+-wpisujemy poprawny login
+-wpisujemy poprawne hasło
+
+3/Dodajemy nową pozycję na liście tytułów
+-klikamy ADD NEW
+-wpisujemy poprawny tytuł
+-wpisujemy poprawnego autora
+-podajemy poprawny rok
+
+4/Poprawne wypożyczenie książki
+-wybieramy SHOW HISTORY
+-klikamy RENT THIS COPY
+-wpisujemy poprawną nazwę użytkownika
+-podajemy poprawną datę wypożyczenia
+-klikamy ADD COPY
+
+5/Dodawanie nowej kopii książki
+-wybieramy książkę której kopię chcemy dodać i klikamy SHOW COPIES
+-klikamy ADD NEW
+-wpisujemy datę zakupu nowej kopii książki
+-klikamy ADD NEW
+
+6/Usuwanie kopii książki
+-klikamy SHOW COPIES
+-wybieramy REMOVE tej pozycji, którą zamierzamy usunąć
+
+7/Edycja wybranego tytułu na liście
+-klikamy EDIT
+-wybieramy pozycje, którą chcemy edytować np Year
+-wpisujemy nową wartość w komórkę
+-klikamy EDIT TITLE
+
+8/Usuwanie wybranej pozycji
+-po zalogowaniu na konto klikamy REMOVE przy pozycji, którą chcemy usunąć
+
+
+
+
+
+
+
+
